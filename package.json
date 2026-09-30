@@ -1,0 +1,10 @@
+{
+  "name": "cricket-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hop 3 mobile scorecard. Consumes live-gateway snapshots — three hops from cricket-protocol.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}
